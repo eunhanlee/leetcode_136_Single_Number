@@ -1,6 +1,6 @@
 # 136. Single Number Problem Solved: Uncover the Most Efficient Java Algorithm
 
-https://eunhanspace.blogspot.com/2023/05/136single-number-problem-solved-uncover.html
+[Homepage linke](https://eunhanspace.blogspot.com/2023/05/136single-number-problem-solved-uncover.html)
 
 # Problem
 
